@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 CodeAlpha Ruban — Language Translation Tool
 
 A Python-based web application that translates text between different languages. This project was developed as part of the **CodeAlpha Artificial Intelligence Internship — Task 1**.
@@ -160,3 +161,7 @@ This is an educational internship project. MyMemory is an external translation s
 "Ruban S."
 
 Developed as part of the CodeAlpha Artificial Intelligence Internship.
+=======
+# CodeAlpha_Language_Translation_Tool-Ruban
+A Python-based language translation web application developed for the CodeAlpha AI Internship.
+>>>>>>> 90e8116d1f46c74130822fbaa1bd6933424798b0
